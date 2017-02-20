@@ -1,0 +1,9 @@
+[submodule "nixpkgs"]
+	path = nixpkgs
+	url = https://github.com/nixos/nixpkgs
+[submodule "cves/2016-7906/nixpkgs-fixed"]
+	path = cves/2016-7906/nixpkgs-fixed
+	url = https://github.com/nixos/nixpkgs
+[submodule "cves/2016-7906/nixpkgs-broken"]
+	path = cves/2016-7906/nixpkgs-broken
+	url = https://github.com/nixos/nixpkgs

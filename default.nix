@@ -1,0 +1,3 @@
+{
+   cves = import ./cves;
+}
